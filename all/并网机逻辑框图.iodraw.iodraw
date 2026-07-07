@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ut1lKZmSjCWV_oQ2x-b0-20" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="484" y="261" width="40" height="36" as="geometry" />
+          <mxGeometry x="502" y="261" width="40" height="36" as="geometry" />
         </mxCell>
         <mxCell id="ut1lKZmSjCWV_oQ2x-b0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="ut1lKZmSjCWV_oQ2x-b0-23">
           <mxGeometry relative="1" as="geometry">
