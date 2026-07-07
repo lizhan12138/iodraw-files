@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
-    <mxGraphModel dx="471" dy="281" grid="0" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="158" dy="94" grid="0" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,16 +56,16 @@
         </mxCell>
         <mxCell id="ut1lKZmSjCWV_oQ2x-b0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ut1lKZmSjCWV_oQ2x-b0-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="503.93023255813955" y="303" as="targetPoint" />
+            <mxPoint x="547.9302325581396" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ut1lKZmSjCWV_oQ2x-b0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ut1lKZmSjCWV_oQ2x-b0-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="503.93023255813955" y="255" as="targetPoint" />
+            <mxPoint x="547.9302325581396" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ut1lKZmSjCWV_oQ2x-b0-20" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="502" y="261" width="40" height="36" as="geometry" />
+          <mxGeometry x="528" y="261" width="40" height="36" as="geometry" />
         </mxCell>
         <mxCell id="ut1lKZmSjCWV_oQ2x-b0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="ut1lKZmSjCWV_oQ2x-b0-23">
           <mxGeometry relative="1" as="geometry">
